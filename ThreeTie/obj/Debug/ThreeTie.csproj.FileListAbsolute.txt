@@ -1,0 +1,44 @@
+c:\users\user\documents\visual studio 2012\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\ThreeTie\ThreeTie\bin\ThreeTie.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ThreeTie\ThreeTie\bin\ThreeTie.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.pdb
+D:\SHALU\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+D:\SHALU\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+D:\SHALU\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.dll
+D:\SHALU\Projects\ThreeTie\ThreeTie\obj\Debug\ThreeTie.pdb
+E:\ThreeTie\ThreeTie\bin\ThreeTie.dll.config
+E:\ThreeTie\ThreeTie\bin\ThreeTie.dll
+E:\ThreeTie\ThreeTie\bin\ThreeTie.pdb
+E:\ThreeTie\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+E:\ThreeTie\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+E:\ThreeTie\ThreeTie\obj\Debug\ThreeTie.dll
+E:\ThreeTie\ThreeTie\obj\Debug\ThreeTie.pdb
+E:\ThreeTie\three\three\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+E:\ThreeTie\three\three\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+E:\ThreeTie\three\three\ThreeTie\obj\Debug\ThreeTie.dll
+E:\ThreeTie\three\three\ThreeTie\obj\Debug\ThreeTie.pdb
+E:\ThreeTie\three\three\ThreeTie\bin\ThreeTie.dll.config
+E:\ThreeTie\three\three\ThreeTie\bin\ThreeTie.dll
+E:\ThreeTie\three\three\ThreeTie\bin\ThreeTie.pdb
+E:\Gitrepo\three\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+E:\Gitrepo\three\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+E:\Gitrepo\three\ThreeTie\obj\Debug\ThreeTie.dll
+E:\Gitrepo\three\ThreeTie\obj\Debug\ThreeTie.pdb
+E:\Gitrepo\three\ThreeTie\bin\ThreeTie.dll.config
+E:\Gitrepo\three\ThreeTie\bin\ThreeTie.dll
+E:\Gitrepo\three\ThreeTie\bin\ThreeTie.pdb
+D:\three\ThreeTie\bin\ThreeTie.dll.config
+D:\three\ThreeTie\bin\ThreeTie.dll
+D:\three\ThreeTie\bin\ThreeTie.pdb
+D:\three\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+D:\three\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+D:\three\ThreeTie\obj\Debug\ThreeTie.dll
+D:\three\ThreeTie\obj\Debug\ThreeTie.pdb
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\bin\ThreeTie.dll.config
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\bin\ThreeTie.dll
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\bin\ThreeTie.pdb
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\obj\Debug\ThreeTie.csprojAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\obj\Debug\ThreeTie.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\obj\Debug\ThreeTie.dll
+C:\Program Files (x86)\Jenkins\workspace\three\ThreeTie\obj\Debug\ThreeTie.pdb
